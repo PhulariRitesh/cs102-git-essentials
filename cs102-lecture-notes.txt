@@ -3,3 +3,8 @@ git log : This command shows us the all commits have been done by us.
 git status : This command shows us curent status of our repository.
 git clone : This command is used to clone any repository in form of local repository.
 git commit : This command commits new changed file.
+
+Summary of today's lecture:
+			   In today's lecture we learned how to make changes in some files of repository.We also learned to add those changed files to our local repository.We also learned how to push these all changes to our main branch repository.
+		We also learned how to do changes to file by using github.comand commit changes.We also learned how to pull all changes done on github.com to our local repository by using "git pull origin main.
+		We also learned some basic concepts about Mark down language and somewhat information about what we are going to study in upcoming lectures.  

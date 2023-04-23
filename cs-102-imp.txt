@@ -1,0 +1,3 @@
+This is very much important to know that when we use command git diff in which form:
+	1.We use command git diff --staged , if changes in file are not commited yet they are only staged right now.
+	2.We use command git diff HEAD , if changes in file are commited. 

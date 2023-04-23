@@ -1,0 +1,5 @@
+git add . : This command adds all new changes in files to the local repository.
+git log : This command shows us the all commits have been done by us.
+git status : This command shows us curent status of our repository.
+git clone : This command is used to clone any repository in form of local repository.
+git commit : This command commits new changed file.
